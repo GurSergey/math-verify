@@ -1,0 +1,18 @@
+{
+    "name": "gursergey/math-verify",
+    "require": {
+        "php": "^5.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gurilev Sergey",
+            "email": "gyrsergey@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MathVerify\\": "src"
+        }
+    }
+}
