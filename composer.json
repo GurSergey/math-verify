@@ -1,5 +1,5 @@
 {
-    "name": "gursergey/math-verify",
+    "name": "gursergey/mathverify",
     "require": {
         "php": "^5.5"
     },
