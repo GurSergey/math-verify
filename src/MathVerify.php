@@ -1,7 +1,7 @@
 <?php
 
 
-namespace MathVerify;
+namespace GurSergey;
 
 class MathVerify
 {
